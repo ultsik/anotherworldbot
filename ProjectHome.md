@@ -1,0 +1,1 @@
+A free bot for Another World Online (awplanet). This sourcecode has been created and will be developed in Autohotkey's (http://www.autohotkey.com) scripting language 'ahk'. Visit the site at http://www.awbot.webs.com.
